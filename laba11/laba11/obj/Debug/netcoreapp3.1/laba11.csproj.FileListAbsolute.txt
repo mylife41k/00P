@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.exe
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.deps.json
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.runtimeconfig.json
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.dll
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.pdb
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.dll
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.pdb
+C:\Users\lenovo\Desktop\ООП\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.genruntimeconfig.cache
